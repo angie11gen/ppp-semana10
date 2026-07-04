@@ -4,3 +4,5 @@ Acción: enviar mensaje a Telegram de secretaria general.
 
 Mensaje: Nuevo integrante registrado;
 Revisar chat.
+
+No se debe compartir informacion sensible como lo es nombres direcciones historial medico numero de celular. 
