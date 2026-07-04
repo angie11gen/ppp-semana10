@@ -1,0 +1,6 @@
+Evento: nuevo integrante registrado.
+
+Acción: enviar mensaje a Telegram de secretaria general.
+
+Mensaje: Nuevo integrante registrado;
+Revisar chat.
